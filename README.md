@@ -79,7 +79,6 @@ Prerequisites
 We utilised VS Code, however you can use your editor of choice.
 
 Installation
-Get a free API Key at https://example.com
 Running the code, installs the models automatically into a folder named "models"
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
