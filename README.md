@@ -63,7 +63,6 @@
 
 <!-- ABOUT THE PROJECT -->
 About The Project
-![Product Name Screen Shot](images/screenshot.png)
 EyeMouse: Camera-Based Interaction is a computer vision-based desktop application that enables hands free control of a computer using eye movements and facial gestures. The system uses a standard webcam and MediaPipe Face Mesh to track facial landmarks in real time, allowing users to move the cursor, perform mouse clicks through blink detection, and interact with the computer without a physical mouse. Designed as a low-cost and accessible alternative to conventional input devices, EyeMouse enhances user convenience and accessibility while delivering accurate, responsive, and intuitive human-computer interaction.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
